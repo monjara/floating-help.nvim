@@ -1,6 +1,6 @@
 local M = {}
 
-M.createFloatingHelp = function(q)
+M.createFullHelp = function(q)
   local lines = vim.o.lines - vim.o.cmdheight
   local columns = vim.o.columns
   local height = lines
