@@ -6,7 +6,7 @@ M.createFloatingHelp = function(q)
   local height = lines
   local width = columns
   local row = lines
-  local col = 0
+  local col = columns
 
   local opts = {
     height = height,
