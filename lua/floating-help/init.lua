@@ -16,7 +16,6 @@ M.createFloatingHelp = function(q)
     relative = 'editor',
     style = 'minimal',
     zindex = 45,
-    border = 'single',
   }
 
   local win_id = 0
